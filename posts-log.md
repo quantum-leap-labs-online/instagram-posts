@@ -10,3 +10,4 @@ Schedule: Monday, Wednesday, Friday
 | 2026-11-14 | 3 | Single image (1080x1350) | Where to start: services by problem | 2026-11-11-where-to-start | 18414205783088095 |
 | 2026-11-16 | 8 | Carousel (4 slides, 1080x1350) | Who we work with: good-fit checklist, your part vs our part, DM "LEAP" CTA (replaces planned intro Reel) | 2026-11-16-who-we-work-with | 18021010628969436 |
 | 2026-11-18 | 10 | Carousel (8 slides, 1080x1350) | 5 things every business homepage needs: headline, one next step, real proof, easy contact, mobile layout + recap checklist + DM "LEAP" free 15-min check CTA | 2026-11-18-homepage-must-haves | 18503895289100095 |
+| 2026-11-20 | 12 | Single image (1080x1350) | One-sentence test: "We help [who] get [result] with [what you offer]" formula, vague vs clear example + DM "LEAP" free 15-min check CTA | 2026-11-20-one-sentence-test | 17995128273096236 |
